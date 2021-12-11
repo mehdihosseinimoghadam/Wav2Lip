@@ -2,7 +2,7 @@
 #### Wav2Lip: Accurately Lip-syncing Videos In The Wild
  Wav2Lip wrapper pypi package code for this package is available at: https://github.com/mehdihosseinimoghadam/Wav2Lip
  also original code from writers of Wav2Lip is available at:
- https://github.com/mehdihosseinimoghadam/Wav2Lip
+ https://github.com/Rudrabha/Wav2Lip
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
@@ -114,5 +114,5 @@ MIT
 
 Acknowledgements
 ----------
-This is only a wrapper package and the main code of Wav2Lip can be found in https://github.com/mehdihosseinimoghadam/Wav2Lip
+This is only a wrapper package and the main code of Wav2Lip can be found in https://github.com/Rudrabha/Wav2Lip
 
